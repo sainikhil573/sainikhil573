@@ -1,105 +1,47 @@
-# Hi, I'm Sai Nikhil 👋
+<h1 align="center">Hi 👋, I'm Sai Nikhil Reddy</h1>
 
-### Data Engineer | Azure • Databricks • PySpark • SQL
+<h3 align="center">
+Data Engineer | Azure • Databricks • PySpark • SQL
+</h3>
 
-I build production-style data platforms focused on batch processing, streaming, lakehouse architecture, data quality, and analytics-ready pipelines.
+<p align="center">
+Building scalable batch, streaming, and lakehouse data platforms.
+</p>
 
-Currently building end-to-end engineering projects using Azure Data Factory, ADLS Gen2, Databricks, PySpark, Delta Lake, Microsoft Fabric, Kafka, and AWS.
+<p align="center">
+  <a href="https://linkedin.com/in/sainikhil-t25/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://aeropexexports.com/">
+    <img src="https://img.shields.io/badge/Aeropex-Website-orange?style=for-the-badge&logo=google-chrome">
+  </a>
+  <a href="https://crypto-agent-production-2b37.up.railway.app/">
+    <img src="https://img.shields.io/badge/Live_Project-View-success?style=for-the-badge&logo=railway">
+  </a>
+</p>
 
----
+<p align="center">
 
-## 🚀 What I'm Building
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=flat&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-### 🌍 Aeropex Exports
-Working on the technology and data side of an international sourcing and export business, including buyer intelligence, data collection, validation, and analytics workflows.
-
-🌐 **Website:** https://aeropexexports.com/
-
-**Current engineering focus:**
-
-`Buyer Intelligence` • `Data Pipelines` • `Automation` • `Analytics`
-
----
-
-## 🛠 Tech Stack
-
-**Languages**  
-Python • SQL • Java
-
-**Data Engineering**  
-PySpark • Apache Spark • Delta Lake • Kafka
-
-**Azure**  
-Azure Data Factory • ADLS Gen2 • Azure SQL • Databricks • Microsoft Fabric • Synapse
-
-**AWS**  
-S3 • Glue • Redshift • Kinesis
-
-**Databases & Warehousing**  
-SQL Server • Snowflake • Redshift
-
-**Development & Tools**  
-Git • GitHub • REST APIs • Postman
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 👨‍💻 About Me
 
-### 🏗 Buyer Intelligence Data Platform
+I'm a Data Engineer focused on designing and building end-to-end data platforms using cloud, distributed processing, and modern lakehouse architectures.
 
-Building an end-to-end platform for discovering, validating, transforming, and analyzing international buyer data.
-
-**Architecture**
-
-`Sources → Ingestion → Bronze → PySpark → Silver → Gold → Analytics`
-
-**Tech**
-
-`Azure` `ADF` `ADLS Gen2` `Databricks` `PySpark` `Delta Lake`
-
-🌐 Business context: https://aeropexexports.com/
+- 🔭 Building **Buyer Intelligence Data Platform**
+- ⚙️ Working with **Azure Data Factory, Databricks, PySpark & Delta Lake**
+- ⚡ Building both **batch and real-time streaming pipelines**
+- 📊 Exploring **Microsoft Fabric and modern analytics architectures**
+- 🌍 Applying data engineering to a real business use case through **Aeropex Exports**
 
 ---
-
-### ⚡ Real-Time Event Streaming Platform
-
-Real-time data pipeline for ingesting, processing, and transforming streaming events.
-
-`Kafka` `Spark Structured Streaming` `Python`
-
----
-
-### 🔄 Batch Data Platform
-
-Production-style batch ETL/ELT platform focused on ingestion, transformation, data quality, and analytics-ready datasets.
-
-`Python` `PySpark` `AWS`
-
----
-
-### 📈 Crypto Analytics & Trading Agent
-
-Python-based application for market-data analysis, strategy execution, and automated trading workflows.
-
-`Python` `APIs` `Data Processing` `Automation`
-
-🚀 **Live Demo:** https://crypto-agent-production-2b37.up.railway.app/
-
----
-
-## 🔭 Currently Exploring
-
-- Microsoft Fabric
-- Advanced PySpark
-- Delta Lake optimization
-- Data quality & reconciliation
-- Metadata-driven pipelines
-- Real-time data engineering
-
----
-
-## 📫 Connect With Me
-
-🌐 **Aeropex:** https://aeropexexports.com/  
-💼 **LinkedIn:** https://www.linkedin.com/in/nikhil-r-a4b072418/
-🚀 **Live Project:** https://crypto-agent-production-2b37.up.railway.app/
