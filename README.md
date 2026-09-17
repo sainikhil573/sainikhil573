@@ -4,7 +4,20 @@
 
 I build production-style data platforms focused on batch processing, streaming, lakehouse architecture, data quality, and analytics-ready pipelines.
 
-Currently working on end-to-end Data Engineering projects using Azure Data Factory, ADLS Gen2, Databricks, PySpark, Delta Lake, Microsoft Fabric, Kafka, and AWS.
+Currently building end-to-end engineering projects using Azure Data Factory, ADLS Gen2, Databricks, PySpark, Delta Lake, Microsoft Fabric, Kafka, and AWS.
+
+---
+
+## 🚀 What I'm Building
+
+### 🌍 Aeropex Exports
+Working on the technology and data side of an international sourcing and export business, including buyer intelligence, data collection, validation, and analytics workflows.
+
+🌐 **Website:** https://aeropexexports.com/
+
+**Current engineering focus:**
+
+`Buyer Intelligence` • `Data Pipelines` • `Automation` • `Analytics`
 
 ---
 
@@ -25,30 +38,68 @@ S3 • Glue • Redshift • Kinesis
 **Databases & Warehousing**  
 SQL Server • Snowflake • Redshift
 
-**Tools**  
+**Development & Tools**  
 Git • GitHub • REST APIs • Postman
 
 ---
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
 ### 🏗 Buyer Intelligence Data Platform
-End-to-end data platform for discovering, validating, cleaning, and analyzing international buyer data using modern data engineering patterns.
 
-`Azure` `ADF` `ADLS` `Databricks` `PySpark` `Delta Lake`
+Building an end-to-end platform for discovering, validating, transforming, and analyzing international buyer data.
+
+**Architecture**
+
+`Sources → Ingestion → Bronze → PySpark → Silver → Gold → Analytics`
+
+**Tech**
+
+`Azure` `ADF` `ADLS Gen2` `Databricks` `PySpark` `Delta Lake`
+
+🌐 Business context: https://aeropexexports.com/
+
+---
 
 ### ⚡ Real-Time Event Streaming Platform
-Real-time data pipeline for ingesting, processing, and transforming event streams.
+
+Real-time data pipeline for ingesting, processing, and transforming streaming events.
 
 `Kafka` `Spark Structured Streaming` `Python`
 
+---
+
 ### 🔄 Batch Data Platform
-Production-style batch ETL/ELT pipeline with transformation, validation, and analytics-ready datasets.
+
+Production-style batch ETL/ELT platform focused on ingestion, transformation, data quality, and analytics-ready datasets.
 
 `Python` `PySpark` `AWS`
 
 ---
 
+### 📈 Crypto Analytics & Trading Agent
+
+Python-based application for market-data analysis, strategy execution, and automated trading workflows.
+
+`Python` `APIs` `Data Processing` `Automation`
+
+🚀 **Live Demo:** https://crypto-agent-production-2b37.up.railway.app/
+
+---
+
+## 🔭 Currently Exploring
+
+- Microsoft Fabric
+- Advanced PySpark
+- Delta Lake optimization
+- Data quality & reconciliation
+- Metadata-driven pipelines
+- Real-time data engineering
+
+---
+
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/nikhil-r-a4b072418/
+🌐 **Aeropex:** https://aeropexexports.com/  
+💼 **LinkedIn:** https://www.linkedin.com/in/nikhil-r-a4b072418/
+🚀 **Live Project:** https://crypto-agent-production-2b37.up.railway.app/
