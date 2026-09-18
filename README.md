@@ -39,7 +39,7 @@ Building scalable batch, streaming, and lakehouse data platforms.
 I'm a Data Engineer focused on designing and building end-to-end data platforms using cloud, distributed processing, and modern lakehouse architectures.
 
 - 🔭 Building **Buyer Intelligence Data Platform**
-- ⚙️ Working with **Azure Data Factory, Databricks, PySpark & Delta Lake**
+- ⚙️ Working with **Azure Data Factory, Databricks, PySpark, Delta Lake & Microsoft Fabric**
 - ⚡ Building both **batch and real-time streaming pipelines**
 - 📊 Exploring **Microsoft Fabric and modern analytics architectures**
 - 🌍 Applying data engineering to a real business use case through **Aeropex Exports**
